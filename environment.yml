@@ -1,0 +1,11 @@
+name: state-partisan
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - tabula-py
+  - notebook
+  - jupyter
+prefix: /Users/psthomas/miniconda3/envs/state-partisan
